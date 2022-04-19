@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.1d38bf31.css",
-    "main.js": "/static/js/main.666823ae.js",
+    "main.js": "/static/js/main.eca12552.js",
     "static/media/mclaren.glb": "/static/media/mclaren.39b8f14267f691fa2e22.glb",
     "static/media/MilleniumFalcon.glb": "/static/media/MilleniumFalcon.141436ca0faef749eb1c.glb",
     "static/media/suzanne.glb": "/static/media/suzanne.9c7ab1eed8ccabe2e0ae.glb",
     "index.html": "/index.html",
     "main.1d38bf31.css.map": "/static/css/main.1d38bf31.css.map",
-    "main.666823ae.js.map": "/static/js/main.666823ae.js.map"
+    "main.eca12552.js.map": "/static/js/main.eca12552.js.map"
   },
   "entrypoints": [
     "static/css/main.1d38bf31.css",
-    "static/js/main.666823ae.js"
+    "static/js/main.eca12552.js"
   ]
 }
